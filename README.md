@@ -19,7 +19,7 @@ This script installs several drivers from different printers and manufacturers t
 	```shell
 	cd AirPrintCups-Pi
 	```
-- Add a executable permission to *install.sh* script.
+- Add an executable permission to *install.sh* script.
 	```shell
 	chmod +x install.sh
 	```
@@ -40,11 +40,11 @@ You can configure almost any compatible printer with CUPS.
 	![Add printer](imgs/3.png)
 - Select your print in the list
 	![List of printers](imgs/4.png)
-- Check the "Share this Printer" and click in Continue. You can modify printer informations, if you desire.
+- Check the "Share this Printer" and click in Continue. You can modify printer information, if you desire.
 	![Print informations](imgs/5.png)
 - Now you have the select a correct driver to you printer. In most of cases this selection is automatic but you can modify or use a different PPD.
 	![Select driver/PPD](imgs/6.png)
-- After the driver selection, you go to General Options of print. Make sure that's all are ok and click on Set Default Options (you can modify )
+- After the driver selection, you go to General Options of print. Make sure that's all are ok and click on Set Default Options (you can modify after to obtain better print results).
 	![Configure general options](imgs/7.png)
-- Conglaturations! Your printer is ready to print on AirPrint support!!!
+- Congratulations! Your printer is ready to print on AirPrint support!!!
 	![List of instaled printers](imgs/8.png)
